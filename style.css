@@ -4,6 +4,8 @@ body {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     font-size: 16px;
+    background-image: url();
+    cursor: url('')16, 16, auto;
 }
 
 h1 {
@@ -37,4 +39,10 @@ table {
 
 img {
     width: 300px;
+}
+a{
+    color: yellow;
+}
+a:hover{
+    Color: yellow 
 }
